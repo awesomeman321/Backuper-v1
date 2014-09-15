@@ -1,0 +1,12 @@
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Backuper\sndir\bin\Debug\sndir.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Backuper\sndir\bin\Debug\sndir.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Backuper\sndir\bin\Debug\sndir.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Backuper\sndir\obj\Debug\sndir.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Backuper\sndir\obj\Debug\sndir.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Backuper\sndir\obj\Debug\sndir.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Backuper\sndir\obj\Debug\sndir.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Backuper\sndir\obj\Debug\sndir.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Backuper\sndir\bin\Debug\Backuper.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Backuper\sndir\bin\Debug\Backuper.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Backuper\sndir\bin\Debug\Backuper.xml
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\Backuper\sndir\obj\Debug\sndir.vbprojResolveAssemblyReference.cache
